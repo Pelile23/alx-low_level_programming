@@ -2,8 +2,7 @@
 
 /**
  * print_number - print numbers chars
- * @n: number
- *
+ * @n: integer params
  * Return: 0
  */
 
