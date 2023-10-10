@@ -4,9 +4,9 @@
 /**
  * struct dog - new type
  *
- * @name: name to be given
- * @age: student age
- * @owner: owner
+ * @name: dog name
+ * @age: dog age
+ * @owner: dog owner
  *
  */
 
@@ -16,5 +16,5 @@ struct dog
 	float age;
 	char *owner;
 };
-
+void init_dog(struct dog *d, char *name, float age, char *owner);
 #endif
