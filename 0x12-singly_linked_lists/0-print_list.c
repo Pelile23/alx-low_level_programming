@@ -4,7 +4,7 @@
 #include "lists.h"
 
 /**
- * print_list - Write 
+ * print_list - function
  * @h: name of the list
  * Return: nodes
  */
