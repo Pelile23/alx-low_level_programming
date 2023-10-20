@@ -4,7 +4,7 @@
  * myPellyFunc - Apply the constructor attribute to myStartupFun() so that it
  *   is executed before main()
  */
-void myPellyfunc(void) __attribute__ ((constructor));
+void myPellyFunc(void) __attribute__ ((constructor));
 
 /**
  * myPellyFunc - implementation of myStartupFun
